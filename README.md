@@ -1,2 +1,3 @@
 # GAN_MNIST
- GAN on MNIST
+## DC-GAN
+![DC-GAN](demo\dcgan.gif)
